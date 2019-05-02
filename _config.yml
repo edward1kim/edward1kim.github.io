@@ -26,7 +26,8 @@ github_username:  edward1kim
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
+remote_theme: "mmistakes/so-simple-theme"
 plugins:
   - jekyll-feed
 
