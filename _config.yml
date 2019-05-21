@@ -60,10 +60,10 @@ defaults:
       share: true
 
 # Site Author
-author:
-  name:
-  picture:
-  email:
+author: 
+  name: Edward Kim 
+  picture: /images/self.jpg
+  email: edward.kim.mik@gmail.com
   twitter:
   links:
     - title:
@@ -71,10 +71,10 @@ author:
       icon:
 
 # Footer Links
-footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+footer_links: false
+  # - title: Feed
+  #   url: atom.xml
+  #   icon: fas fa-rss-square
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
