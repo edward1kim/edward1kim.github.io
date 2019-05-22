@@ -16,7 +16,7 @@
 title: Edward Kim
 email: edwardki@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal Website of Tech and Food
+  Tech and Food
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://edward1kim.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%B %-d, %Y"
