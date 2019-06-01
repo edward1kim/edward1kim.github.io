@@ -50,6 +50,9 @@ plugins:
   - jekyll-paginate
   - jekyll-target-blank
 
+target-blank:
+  css_class: ext-link
+
 # Front Matter Defaults
 defaults:
   # Posts defaults
