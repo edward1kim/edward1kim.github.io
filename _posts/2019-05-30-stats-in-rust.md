@@ -7,7 +7,7 @@ permalink: /tech_posts/from-c++-to-rust
 categories:
     - Tech
 ---
-For a few months now, I've been going through the [The Rust Programming Language][rust-book] book (known as The Book). I heard about this language while peeking at someone's github, and since I just finished my Euchre project in EECS 280 of my last semester at Michigan, I said, "Why not?" It's very similar to C++, especially syntactically, but it's safer (i.e. more safeguards against memory leaks through its concept of "ownership", anything declared is immutable by default, functions must be explicitly declared public if you want to use it in other files - to name a few) and performs almost as efficiently. This post is going to expand on my musings on going from one object oriented language to another. 
+For a few months now, I've been going through the [The Rust Programming Language][rust-book] book (known as The Book). I heard about this language while peeking at someone's github, and since I just finished my Euchre project in EECS 280 of my last semester at Michigan, I said, "Why not?" It's very similar to C++, especially syntactically, but it's safer (i.e. more safeguards against memory leaks through its concept of "ownership", anything declared is immutable by default, functions must be explicitly declared public if you want to use it in other files—to name a few) and performs almost as efficiently. This post is going to expand on my musings on going from one object oriented language to another. 
 
 Let's start with declaring a variable. In C++, it'd be something like this:
 
