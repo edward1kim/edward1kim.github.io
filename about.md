@@ -16,4 +16,6 @@ I'll be posting on my personal projects, of both tech and food.
 ---
 **Contact**  
 [Github](https://github.com/edward1kim)
+Email:  edwardki@umich.edu
+        edward.kim.mik@gmail.com
 
