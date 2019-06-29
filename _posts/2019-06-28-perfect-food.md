@@ -40,4 +40,4 @@ If everything goes according to plan, I'll stop wondering, take out my beautiful
 
 ---
 
-Here is an [album of the food](https://photos.app.goo.gl/HpWNX7DSY2RJdJGn8) throughout the meal for those who can taste with their eyes. 
+Here is an [album of the food](https://photos.app.goo.gl/HpWNX7DSY2RJdJGn8){:target="_blank"} throughout the meal for those who can taste with their eyes. 
