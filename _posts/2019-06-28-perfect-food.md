@@ -13,7 +13,7 @@ Over the holiday season last year, I came across a reddit post in /r/leagueofleg
 In that same series but a few episodes back, there's an episode on Eleven Madison Park (EMP): three Michelin star restaurant, operated by Daniel Humm (head chef) and Will Guidara (restaurateur). When it was awarded 2017's best restaurant in the world, the restaurant went under renovation, a controversial move since it was arguably at the peak of its culinary stardom. It goes through the days (seven to be exact) before the reopening of the restaurant. I absolutely love this episode. 
 
 {:refdef: style="text-align: center;"}
-![EMP_duck](/assets/images/EMP_duck.jpg){:height="300px" width="600px"}  
+![EMP_duck](/assets/images/EMP/EMP_duck.jpg){:height="300px" width="600px"}  
 <sup>***Honey and Lavender Glazed Duck with Napa Cabbage and Pear***</sup>
 {: refdef}
 
@@ -28,7 +28,7 @@ A single quote stuck out to me since my initial watch. Starting at 12:51, lively
 I want to reiterate that I love this episode, so much so that my sister got a reservation for it in the middle of this past April as my graduation present. I always end up fumbling my words whenever anyone asks how the meal was. I can describe the tiniest details the front staff thought of to make the meal amazing; I can describe the combination of flavors over the course of the meal that sincerely made me emotional. But every paragraph would end with "I don't know... it was just incredible." It's so hard to describe without pouring out my heart and everything that food means to me.
 
 {:refdef: style="text-align: center;"}
-![EMP_bread](/assets/images/EMP_bread.jpg){:height="300px" width="600px"}  
+![EMP_bread](/assets/images/EMP/EMP_bread.jpg){:height="300px" width="600px"}  
 <sup>***Very Flaky Bread***</sup>
 {: refdef}
 
