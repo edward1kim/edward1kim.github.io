@@ -27,7 +27,7 @@ The main flavoring of the soup comes from the canned adobo sauce and tomatoes, w
 4 carrots  
 3 celery sticks  
 6 cups of chicken stock (or Better Than Boullion + water)  
-4 bay leaves
+4 bay leaves  
 2 bunches of kale
 
 **INSTRUCTIONS**  
