@@ -34,17 +34,17 @@ The main flavoring of the soup comes from the canned adobo sauce and tomatoes, w
 First, cut up the onion, mushrooms, potatoes, carrots, and celery into bite-size chunks. Dump them all into the pressure cooker and stir them around so it's mixed.
 
 {:refdef: style="text-align: center;"}
-![veggies1](/assets/images/chicken_adobo_soup/1-cut-veg.jpg){:height="300px" width="600px"}  
+![veggies1](/assets/images/chicken_adobo_soup/1-cut-veg.jpg){:width="600px"}  
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-![veggies2](/assets/images/chicken_adobo_soup/1a-veg.jpg){:height="300px" width="600px"}  
+![veggies2](/assets/images/chicken_adobo_soup/1a-veg.jpg){:width="600px"}  
 {: refdef}
 
 Next, on the same cutting board, strip off and save the skins of the chicken thighs. These add extra fat and flavor to the soup while pressure cooking; it'll be taken out and disposed after. Put all the chicken thighs and skins into the pot. 
 
 {:refdef: style="text-align: center;"}
-![chicken](/assets/images/chicken_adobo_soup/2-add-chicken.jpg){:height="300px" width="600px"}  
+![chicken](/assets/images/chicken_adobo_soup/2-add-chicken.jpg){:width="600px"}  
 {: refdef}
 
 Once everything is prepped and in the pot, add in the canned tomatoes, adobo peppers with the sauce, and chicken stock until everything is just covered with liquid. I used San Marzano whole, peeled tomatoes and tore them up into chunks with my hands. You can use any canned tomatoes—sliced or whatever else; I've used Kroger brand canned sliced tomatoes and they did as well as San Marzano's. In the picture below, I used Better than Boullion, which is just chicken stock but as a paste. I put in a spoonful or two into the pot and top off with water. 
@@ -52,11 +52,11 @@ Once everything is prepped and in the pot, add in the canned tomatoes, adobo pep
 Give a quick mix and set up your pressure cooker; add in the bay leaves. Cook for 35 minutes at high pressure and high temperature. It'll probably take 10-20 minutes to heat up before it starts cooking. 
 
 {:refdef: style="text-align: center;"}
-![flavor](/assets/images/chicken_adobo_soup/3-add-flavor.jpg){:height="300px" width="600px"}  
+![flavor](/assets/images/chicken_adobo_soup/3-add-flavor.jpg){:width="600px"}  
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-![water](/assets/images/chicken_adobo_soup/4-add-water.jpg){:height="300px" width="600px"}  
+![water](/assets/images/chicken_adobo_soup/4-add-water.jpg){:width="600px"}  
 {: refdef}
 
 Once it is finished, fish out the skins, adobo peppers, and bay leaves; dump those out. Take out the chicken—they should fall right off the bone—and roughly shred them with tongs. Put the chicken meat back into the soup and throw away the bones. 
@@ -64,15 +64,15 @@ Once it is finished, fish out the skins, adobo peppers, and bay leaves; dump tho
 This is the most important step. The soup will be spicy but it'll taste like spicy water. To make it into a soup, you need salt and a good amount of it. I'm reluctant to say how much salt it needs since it will vary from soup to soup, but slowly add salt and taste until the flavor brightens up and makes you happy. 
 
 {:refdef: style="text-align: center;"}
-![pressure cooked](/assets/images/chicken_adobo_soup/5-pcook.jpg){:height="300px" width="600px"}  
+![pressure cooked](/assets/images/chicken_adobo_soup/5-pcook.jpg){:width="600px"}  
 {: refdef}
 
 Switch your pressure cooker into the sear/boil setting. The soup should start boiling after some time. Get your kale and hand tear the leaves into fairly large chunks into the soup. This may seem like a lot of kale, but it'll shrink when it gets cooked down. It's ready to serve; tastes amazing with a toasted baguette! 
 
 {:refdef: style="text-align: center;"}
-![kale](/assets/images/chicken_adobo_soup/6a-add-kale.jpg){:height="300px" width="600px"}  
+![kale](/assets/images/chicken_adobo_soup/6a-add-kale.jpg){:width="600px"}  
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-![kale](/assets/images/chicken_adobo_soup/6b-kale.jpg){:height="300px" width="600px"}  
+![kale](/assets/images/chicken_adobo_soup/6b-kale.jpg){:width="600px"}  
 {: refdef}
