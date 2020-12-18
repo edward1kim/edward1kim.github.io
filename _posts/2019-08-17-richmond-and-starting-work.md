@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Richmond and Starting Work"
-date:   2019-08-17
+title: "Richmond and Starting Work"
+date: 2019-08-17
 share: false
 permalink: /life_posts/richmond-and-starting-work
 categories:

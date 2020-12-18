@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "From C++ to Rust"
-date:   2019-05-30
+title: "From C++ to Rust"
+date: 2019-05-30
 share: false
 permalink: /tech_posts/from-c++-to-rust
 categories:

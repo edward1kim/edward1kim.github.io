@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Korea/Japan Trip 2019"
-date:   2019-07-13
+title: "Korea/Japan Trip 2019"
+date: 2019-07-13
 share: false
 permalink: /life_posts/korea-japan-trip-2019
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Korean Food Part 1: Kimchi"
-date:   2019-09-01
+title: "Korean Food Part 1: Kimchi"
+date: 2019-09-01
 share: false
 permalink: /food_posts/korean-food-part-1-kimchi
 categories:

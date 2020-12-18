@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Creating This Website "
-date:   2019-07-15
+title: "Creating This Website "
+date: 2019-07-15
 share: false
 permalink: /tech_posts/creating-this-website
 categories:

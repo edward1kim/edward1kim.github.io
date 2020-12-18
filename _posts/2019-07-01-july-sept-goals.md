@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Goals for July to September"
-date:   2019-07-01
+title: "Goals for July to September"
+date: 2019-07-01
 share: false
 permalink: /life_posts/july-sept-goals
 categories:
