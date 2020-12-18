@@ -26,7 +26,7 @@ That mindset gets pretty toxic after a while. It's weird that finally, after the
 
 This single change has really increased my overall happiness and confidence. I'm very proud of what I've accomplished this year. So if you want to talk about or see how I got into:
 
-- Raw denim
+- Raw Denim
 - Coffee
 - Sketching
 - Birding
