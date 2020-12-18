@@ -26,16 +26,16 @@ That mindset gets pretty toxic after a while. It's weird that finally, after the
 
 This single change has really increased my overall happiness and confidence. I'm very proud of what I've accomplished this year. So if you want to talk about or see how I got into:
 
-&nbsp;&nbsp;&nbsp;&nbsp;- Raw denim
-&nbsp;&nbsp;&nbsp;&nbsp;- Coffee
-&nbsp;&nbsp;&nbsp;&nbsp;- Sketching
-&nbsp;&nbsp;&nbsp;&nbsp;- Birding
-&nbsp;&nbsp;&nbsp;&nbsp;- Oil Pastels
-&nbsp;&nbsp;&nbsp;&nbsp;- Music
-&nbsp;&nbsp;&nbsp;&nbsp;- Food/Cooking
-&nbsp;&nbsp;&nbsp;&nbsp;- Clay Throwing
-&nbsp;&nbsp;&nbsp;&nbsp;- Ceramics
-&nbsp;&nbsp;&nbsp;&nbsp;- Whiskey
-&nbsp;&nbsp;&nbsp;&nbsp;- Yoga
+- Raw denim
+- Coffee
+- Sketching
+- Birding
+- Oil Pastels
+- Music
+- Food/Cooking
+- Clay Throwing
+- Ceramics
+- Whiskey
+- Yoga
 
 Let me know.
