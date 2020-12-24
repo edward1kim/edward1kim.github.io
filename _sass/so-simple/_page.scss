@@ -67,33 +67,6 @@
   font-style: italic;
   margin-top: 0.5em;
   margin-bottom: 0.8em;
-
-  // @include breakpoint($large) {
-  //   text-align: center;
-  // }
-
-  // .page-date,
-  // .read-time {
-  //   font-family: $meta-font-family;
-  //   font-style: italic;
-  //   white-space: nowrap;
-  // }
-
-  // .read-time {
-  //   @include breakpoint($large) {
-  //     display: block;
-  //   }
-  // }
-
-  // .read-time + .page-date::before {
-  //   content: "\2022";
-  //   padding: 0 0.5em;
-
-  //   @include breakpoint($large) {
-  //     content: "";
-  //     padding: 0;
-  //   }
-  // }
 }
 
 .page-author {
