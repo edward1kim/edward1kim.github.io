@@ -3,7 +3,7 @@ layout: page
 title: "Life Update #1: 3 Month Goals"
 date: 2019-05-31
 share: false
-permalink: /life_posts/3-month-goals
+permalink: /life/3-month-goals
 categories:
     - Life
 ---

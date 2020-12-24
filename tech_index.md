@@ -1,6 +1,6 @@
 ---
 title: Technology Posts
 layout: category
-permalink: /tech_posts/
+permalink: /tech/
 taxonomy: Tech
 ---

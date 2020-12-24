@@ -3,7 +3,7 @@ layout: page
 title: "Moment Between Moments"
 date: 2019-08-01
 share: false
-permalink: /life_posts/moment-between-moments
+permalink: /life/moment-between-moments
 categories:
     - Life
 ---

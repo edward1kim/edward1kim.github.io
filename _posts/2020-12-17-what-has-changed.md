@@ -3,7 +3,7 @@ layout: page
 title: "What has changed?"
 date: 2020-12-17
 share: false
-permalink: /life_posts/what-has-changed
+permalink: /life/what-has-changed
 categories:
     - Life
 ---
@@ -37,5 +37,6 @@ This single change has really increased my overall happiness and confidence. I'm
 - Ceramics
 - Whiskey
 - Yoga
+- Chess
 
 Let me know.

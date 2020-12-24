@@ -1,6 +1,6 @@
 ---
 title: Life Posts
 layout: category
-permalink: /life_posts/
+permalink: /life/
 taxonomy: Life
 ---

@@ -1,6 +1,6 @@
 ---
 title: Food Posts
 layout: category
-permalink: /food_posts/
+permalink: /food/
 taxonomy: Food
 ---

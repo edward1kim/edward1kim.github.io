@@ -3,7 +3,7 @@ layout: page
 title: "Getting Out of Callback Hell When Using Knex"
 date: 2019-11-06
 share: false
-permalink: /tech_posts/getting-out-of-callback-hell-when-using-knex
+permalink: /tech/getting-out-of-callback-hell-when-using-knex
 categories:
     - Tech
 ---

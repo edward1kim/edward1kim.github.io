@@ -3,7 +3,7 @@ layout: page
 title: "Perfect Food"
 date: 2019-06-28
 share: false
-permalink: /food_posts/perfect_food
+permalink: /food/perfect_food
 categories:
     - Food
 ---

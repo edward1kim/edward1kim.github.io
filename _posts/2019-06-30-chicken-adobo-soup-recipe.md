@@ -3,7 +3,7 @@ layout: page
 title: "Chicken Adobo Soup"
 date: 2019-06-30
 share: false
-permalink: /food_posts/chicken-adobo-soup
+permalink: /food/chicken-adobo-soup
 categories:
     - Food
 ---
