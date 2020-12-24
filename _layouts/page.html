@@ -20,7 +20,7 @@ layout: default
       </header>
       <div class="page-content">
         {%- assign date_format = site.date_format | default: "%B %-d, %Y" -%}
-        <div class="page-sidebar">{{ page.date | date: date_format }}</div>
+        <div class="page-date">{{ page.date | date: date_format }}</div>
         {{ content }}
 
         {% if page.share %}
