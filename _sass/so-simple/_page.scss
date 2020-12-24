@@ -10,8 +10,8 @@
 }
 
 .page-title {
-  @include fluid-type($min-vw, $max-vw, 48px, 60px);
-  margin-bottom: 0.5em;
+  @include fluid-type($min-vw, $max-vw, 20px, 60px);
+  margin-bottom: 0.2em;
   font-family: $title-font-family;
   font-weight: $page-title-weight;
   font-style: italic;
@@ -63,34 +63,37 @@
 }
 
 .page-sidebar {
-  font-size: 0.75em;
+  font-size: 0.9em;
+  font-style: italic;
+  margin-top: 0.5em;
+  margin-bottom: 0.8em;
 
-  @include breakpoint($large) {
-    text-align: center;
-  }
+  // @include breakpoint($large) {
+  //   text-align: center;
+  // }
 
-  .page-date,
-  .read-time {
-    font-family: $meta-font-family;
-    font-style: italic;
-    white-space: nowrap;
-  }
+  // .page-date,
+  // .read-time {
+  //   font-family: $meta-font-family;
+  //   font-style: italic;
+  //   white-space: nowrap;
+  // }
 
-  .read-time {
-    @include breakpoint($large) {
-      display: block;
-    }
-  }
+  // .read-time {
+  //   @include breakpoint($large) {
+  //     display: block;
+  //   }
+  // }
 
-  .read-time + .page-date::before {
-    content: "\2022";
-    padding: 0 0.5em;
+  // .read-time + .page-date::before {
+  //   content: "\2022";
+  //   padding: 0 0.5em;
 
-    @include breakpoint($large) {
-      content: "";
-      padding: 0;
-    }
-  }
+  //   @include breakpoint($large) {
+  //     content: "";
+  //     padding: 0;
+  //   }
+  // }
 }
 
 .page-author {

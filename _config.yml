@@ -16,7 +16,7 @@
 title: Edward Kim
 email: edwardki@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Tech and Food
+  Nothing Personal
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://edward1kim.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%B %-d, %Y"
@@ -29,7 +29,7 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 # twitter_username: ""
-github_username:  edward1kim
+github_username: edward1kim
 
 # Liquid
 liquid:
@@ -67,7 +67,7 @@ defaults:
 author: 
   name: Edward Kim 
   picture: /images/self.jpg
-  email: edward.kim.mik@gmail.com
+  email: edwardki@umich.edu
   twitter:
   links:
     - title:
