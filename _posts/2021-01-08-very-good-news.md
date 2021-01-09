@@ -8,4 +8,4 @@ categories:
     - Tidbits
 ---
 
-I got very good news today!
+I got very good news today! Post here for record keeping.
