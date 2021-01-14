@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "A pledge to donate"
-date: 2021-01-08
+date: 2021-01-13
 share: false
 permalink: /life/a-pledge-to-donate
 categories:
