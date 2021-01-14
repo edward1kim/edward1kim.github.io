@@ -24,7 +24,7 @@ I made a pledge to donate this year, but as I'm looking through multiple nonprof
 
 Hunger should not be a problem anymore. That is my reason to donate. 
 
-For January, I am donating to the **Council of Peoples Organization**, a food pantry in Brooklyn. They were featured on an episode of NYT's The Daily, and I haven't stopped thinking about them since that episode. My goal is to donate to an organization that fights hunger every 2 months for the rest of this year. 
+For January, I am donating to the [**Council of Peoples Organization**](https://copo.org/), a food pantry in Brooklyn. They were featured on an episode of NYT's The Daily, and I haven't stopped thinking about them since that episode. My goal is to donate to an organization that fights hunger every 2 months for the rest of this year. 
 
 I am extremely lucky to be in the position that I am in now, to have my sanity and health. I can walk, I can run, I can go up and down stairs without any issues. I feel more or less the same at the beginning of the day. I have a loving family who supports me, and a supportive girlfriend who loves me. I am fortunate. So I feel it's my social responsibility (and others, especially *you* billionares) to give away my excess because there are people that need it more than I do. 
 
