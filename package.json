@@ -1,0 +1,31 @@
+{
+  "name": "edward1kim.github.io",
+  "private": true,
+  "description": "Personal website for Edward Kim",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "deploy": "gatsby build && gh-pages -d public",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "dependencies": {
+    "gatsby": "^2.26.1",
+    "gatsby-source-filesystem": "^2.10.0",
+    "gatsby-transformer-remark": "^2.15.0",
+    "gh-pages": "^3.1.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "prettier": "2.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edward1kim/edward1kim.github.io"
+  }
+}
