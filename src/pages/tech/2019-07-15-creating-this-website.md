@@ -16,7 +16,7 @@ If you look at the [example](https://mmistakes.github.io/so-simple-theme/), the 
 
 Finally, I found a promising file called `_animations.scss`. Skimming through I found this code block.
 
-{% highlight scss%}
+```
 /*
    Drop animation .drop
    ========================================================================== */
@@ -43,7 +43,7 @@ Finally, I found a promising file called `_animations.scss`. Skimming through I 
   -webkit-animation-name: drop;
   animation-name: drop;
 }
-{% endhighlight %}
+```
 
 I want to be very clear here: I have no idea what this means. I have no idea what place this snippet meant in relation to the website and whether it connected to some other file in the repository. I had no idea what would happen if I commented this section out. But I did it anyway, and it stopped the animation.
 

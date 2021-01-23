@@ -9,27 +9,27 @@ module.exports = {
     title: `Edward Kim`,
     menuLinks:[
       {
-         name:'Home',
+         name:'HOME',
          link:'/'
       },
       {
-         name:'About',
+         name:'ABOUT',
          link:'/about'
       },
       {
-        name:'Food',
+        name:'FOOD',
         link:'/food'
       },
       {
-        name:'Life',
+        name:'LIFE',
         link:'/life'
       },
       {
-        name:'Tech',
+        name:'TECH',
         link:'/tech'
       },
       {
-        name:'Tidbits',
+        name:'TIDBITS',
         link:'/tidbits'
       }
     ]
@@ -47,6 +47,36 @@ module.exports = {
               maxWidth: 400,
             },
           },
+          {
+            resolve: `gatsby-remark-prismjs`,
+            options: {
+              classPrefix: "language-",
+              inlineCodeMarker: null,
+              aliases: {},
+              showLineNumbers: true,
+              noInlineHighlight: true,
+              languageExtensions: [
+                {
+                  language: "superscript",
+                  extend: "javascript",
+                  definition: {
+                    superscript_types: /(SuperType)/,
+                  },
+                  insertBefore: {
+                    function: {
+                      superscript_keywords: /(superif|superelse)/,
+                    },
+                  },
+                },
+              ],
+              prompt: {
+                user: "root",
+                host: "localhost",
+                global: false,
+              },
+              escapeEntities: {},
+            }
+          }
         ],
       },
     },

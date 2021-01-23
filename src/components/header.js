@@ -12,21 +12,9 @@ const Header = ({ siteTitle, menuLinks }) => (
     <div
       style={{
         margin: `0 auto`,
-        maxWidth: 300,
-        // padding: `1.45rem 1.0875rem`,
+        maxWidth: 300
       }}
     >
-      {/* <h1>
-        <Link
-          to="/"
-          style={{
-            color: `white`,
-            textDecoration: `none`,
-          }}
-        >
-          {siteTitle}
-        </Link>
-      </h1> */}
       <div>
         <nav>
           <ul style={{ display: "flex", flex: 1, margin: `0 auto`, padding: `0px`, justifyContent: `center` }}>
@@ -49,10 +37,6 @@ const Header = ({ siteTitle, menuLinks }) => (
     </div>
   </header>
 )
-
-// Header.propTypes = {
-//   siteTitle: PropTypes.string,
-// }
 
 Header.defaultProps = {
   siteTitle: ``,
