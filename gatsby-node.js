@@ -1,5 +1,6 @@
 const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
+const menuLinks = require(`./gatsby-config`).siteMetadata.menuLinks.map(({ link }) => link)
 
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions
@@ -23,6 +24,9 @@ exports.createPages = async ({ graphql, actions }) => {
             fields {
               slug
             }
+            frontmatter {
+              category
+            }
           }
         }
       }
@@ -30,14 +34,22 @@ exports.createPages = async ({ graphql, actions }) => {
   `)
 
   result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-    createPage({
-      path: node.fields.slug,
-      component: path.resolve(`./src/templates/post.js`),
-      context: {
-        // Data passed to context is available
-        // in page queries as GraphQL variables.
-        slug: node.fields.slug,
-      },
-    })
+    if (!menuLinks.includes(node.fields.slug)) {
+      createPage({
+        path: node.fields.slug,
+        component: path.resolve(`./src/templates/post.js`),
+        context: {
+          slug: node.fields.slug
+        },
+      })
+    } else {
+      createPage({
+        path: node.fields.slug,
+        component: path.resolve(`./src/templates/postLists.js`),
+        context: {
+          category: node.frontmatter.category
+        },
+      })
+    }
   })
 }

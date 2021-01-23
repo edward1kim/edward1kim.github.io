@@ -14,23 +14,23 @@ module.exports = {
       },
       {
          name:'ABOUT',
-         link:'/about'
+         link:'/about/'
       },
       {
         name:'FOOD',
-        link:'/food'
+        link:'/food/'
       },
       {
         name:'LIFE',
-        link:'/life'
+        link:'/life/'
       },
       {
         name:'TECH',
-        link:'/tech'
+        link:'/tech/'
       },
       {
         name:'TIDBITS',
-        link:'/tidbits'
+        link:'/tidbits/'
       }
     ]
   },
@@ -76,6 +76,12 @@ module.exports = {
               },
               escapeEntities: {},
             }
+          },
+          {
+            resolve: "gatsby-remark-external-links",
+            // options: {
+            //   rel: "nofollow"
+            // }
           }
         ],
       },

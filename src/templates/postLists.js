@@ -2,15 +2,14 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 
-export default function Tidbits({ data }) {
-  console.log(data)
+export default function PostLists({ data }) {
+  let posts = data.allMarkdownRemark.edges.filter(({ node }) => !node.frontmatter.isHead)
+  let categoryHead = data.allMarkdownRemark.edges.filter(({ node }) => node.frontmatter.isHead)[0].node  
+
   return (
     <Layout>
-      <h1>
-        Tidbits
-      </h1>
-      <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
-      {data.allMarkdownRemark.edges.map(({ node }) => (
+      <h1>{categoryHead.frontmatter.title}</h1>
+      {posts.map(({ node }) => (
         <div key={node.id}>
           <h3>
             <Link to={node.fields.slug}>{node.frontmatter.title}{" "}</Link>
@@ -22,20 +21,20 @@ export default function Tidbits({ data }) {
     </Layout>
   )
 }
+
 export const query = graphql`
-  query {
+  query($category: String!) {
     allMarkdownRemark(
-        sort: { 
-            fields: [frontmatter___date], 
-            order: DESC 
+      sort: { 
+        fields: [frontmatter___date], 
+        order: DESC 
+      }
+      filter: {
+        frontmatter: {
+          category: {eq: $category}
         }
-        filter: {
-            frontmatter: {
-                category: {eq: "tidbits"}
-            }
-        }
-        ) {
-      totalCount
+      }
+    ) {
       edges {
         node {
           id
@@ -43,11 +42,12 @@ export const query = graphql`
             title
             date(formatString: "YYYY MMMM DD")
             category
+            isHead
           }
           fields {
             slug
           }
-          excerpt
+          excerpt(pruneLength: 300)
         }
       }
     }

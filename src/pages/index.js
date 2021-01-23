@@ -3,13 +3,12 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 
 export default function Home({ data }) {
-  console.log(data)
+  let posts = data.allMarkdownRemark.edges.filter(({ node }) => !node.frontmatter.isHead)
+
   return (
     <Layout>
       <h1>Home</h1>
-      <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
-      
-      {data.allMarkdownRemark.edges.map(({ node }) => (
+      {posts.map(({ node }) => (
         <div key={node.id}>
           <h3>
             <Link to={node.fields.slug}>{node.frontmatter.title}{" "}</Link>
@@ -23,19 +22,24 @@ export default function Home({ data }) {
 }
 export const query = graphql`
   query {
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
-      totalCount
+    allMarkdownRemark(
+      sort: { 
+        fields: [frontmatter___date], 
+        order: DESC 
+      }
+    ) {
       edges {
         node {
           id
           frontmatter {
             title
             date(formatString: "YYYY MMMM DD")
+            isHead
           }
           fields {
             slug
           }
-          excerpt
+          excerpt(pruneLength: 300)
         }
       }
     }
