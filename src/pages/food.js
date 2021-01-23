@@ -2,12 +2,12 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 
-export default function Home({ data }) {
+export default function Food({ data }) {
   console.log(data)
   return (
     <Layout>
       <h1>
-        Home
+        Food
       </h1>
       <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
       {data.allMarkdownRemark.edges.map(({ node }) => (
@@ -24,7 +24,17 @@ export default function Home({ data }) {
 }
 export const query = graphql`
   query {
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+        sort: { 
+            fields: [frontmatter___date], 
+            order: DESC 
+        }
+        filter: {
+            frontmatter: {
+                category: {eq: "food"}
+            }
+        }
+        ) {
       totalCount
       edges {
         node {
@@ -32,6 +42,7 @@ export const query = graphql`
           frontmatter {
             title
             date(formatString: "YYYY MMMM DD")
+            category
           }
           fields {
             slug

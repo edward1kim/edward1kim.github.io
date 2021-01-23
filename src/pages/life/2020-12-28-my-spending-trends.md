@@ -1,6 +1,7 @@
 ---
 title: "My Spending Trends"
 date: 2020-12-28
+category: "life"
 ---
 
 Before I started working, I set up a whole Google Sheet to help organize all my financials. I wasn't very convinced by these financial organizer apps like Mint, which basically does everything my sheet spits out and more, nor comfortable with these companies analyzing my habits neither. Doing all this tracking myself also let me bucket purchases to my preferences. I didn't have to deal with how I bought beer at the grocery store but that was grouped within groceries in an app when really it's a split between alcohol and groceries (which I make a point to separate).
@@ -15,10 +16,10 @@ I'll admit here that with my salary I am fortunate to have more money than I kno
 
 Let's start with my total spend per month:
 
-{:refdef: style="text-align: center;"}
-![total spend per month](/../../spending-charts/monthly-spend.jpg){:width="800px"}  
+
+![total spend per month](/../../images/spending-charts/monthly-spend.jpg){:width="800px"}  
 <sup>***Total spend per month with moving average (does not include investments)***</sup>
-{: refdef}
+
 
 I've left out August 2019 in my moving average calculation because I moved out to Richmond in the middle of the month and didn't end up spending a lot of money then. It's what Malcolm Gladwell would call an outlier. I've colored the charts relative to my moving average, where close to the average meant yellow, above average spending was red, and below average spending was green. I'll summarize the story behind this chart in bullets.
 
@@ -34,10 +35,10 @@ I've left out August 2019 in my moving average calculation because I moved out t
 
 Next I had to look at my food spending.
 
-{:refdef: style="text-align: center;"}
-![eating out vs groceries](../../spending-charts/eating-out-vs-groceries.jpg){:width="800px"}  
+
+![eating out vs groceries](../../images/spending-charts/eating-out-vs-groceries.jpg){:width="800px"}  
 <sup>***Spend between eating out and grocery shopping***</sup>
-{: refdef}
+
 
 The chart was very eye opening really. I don't spend a lot of money at once for food, but I do go to the grocery store 3-4 times a week and eat out once or twice a week at my worst times. It really adds up. My bullets below:
 
@@ -53,15 +54,15 @@ The chart was very eye opening really. I don't spend a lot of money at once for 
 
 Lastly, I charted my spending buckets. I did one with everything and one with everything except rent contributions.
 
-{:refdef: style="text-align: center;"}
-![total spend percentages](../../spending-charts/spend-split.jpg){:width="600px"}  
-<sup>***Spend split in percentages (minus investments)***</sup>
-{: refdef}
 
-{:refdef: style="text-align: center;"}
-![total spend minus rent percentages](../../spending-charts/spend-split-minus-rent.jpg){:width="600px"}  
+![total spend percentages](../../images/spending-charts/spend-split.jpg)  
+<sup>***Spend split in percentages (minus investments)***</sup>
+
+
+
+![total spend minus rent percentages](../../images/spending-charts/spend-split-minus-rent.jpg)  
 <sup>***Spend split in percentages (minus rent and investments)***</sup>
-{: refdef}
+
 
 Pretty short analysis here.
 

@@ -1,6 +1,7 @@
 ---
 title: "Reminder to the world that I was an Avatar fan before you"
 date: 2021-01-04
+category: "tidbits"
 ---
 
 Everyone got on that Avatar: The Last Airbender wagon this past year ever since Netflix decided to put the series (back) on the platform. And if I can make a not-so-absurd claim with no proof, I think 2020 was the year for social media. More memes spread around, the r/atla subreddit was more active, and people revived the kataang vs zutara discussion. 

@@ -1,6 +1,7 @@
 ---
 title: "My Short Thoughts on Yoga From My Short Experience with Yoga"
 date: 2020-12-25
+category: "tidbits"
 ---
 
 Near the end of November, I started doing yoga at home with this [Yoga with Adriene's 30 Days of Yoga](https://www.youtube.com/playlist?list=PLui6Eyny-UzwxbWCWDbTzEwsZnnROBTIL). I wish I started this in high school or even earlier. I had pretty bad back/neck pain from being on the computer all day, inactivity due to covid, and everything else going on, but yoga has singlehandedly improved all my pains. It's rejuvenating. 

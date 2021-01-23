@@ -1,6 +1,7 @@
 ---
 title: "FOMO in Pandemic"
 date: 2020-12-27
+category: "tidbits"
 ---
 
 Usually, I don't get fomo. Usually, I'm very comfortable with myself that I can wrestle with any jealousies. Usually, if I wanted to do something, I can do it. There would be no "missing out" - usually. But it's getting harder and harder to find that inner peace in the pandemic, as I hear about this person and that person going somewhere more exciting, and I'm home, very bored. If my goal is comfort, then boredom will be my greatest foe. 

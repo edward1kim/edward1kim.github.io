@@ -1,14 +1,15 @@
 import React from "react"
 import { graphql } from "gatsby"
+import Layout from "../components/layout"
 
 export default function BlogPost({ data }) {
   const post = data.markdownRemark
   return (
-    <div>
+    <Layout>
       <h1>{post.frontmatter.title}</h1>
       <h3>{post.frontmatter.date}</h3>
       <div dangerouslySetInnerHTML={{ __html: post.html }} />
-    </div>
+    </Layout>
   )
 }
 
@@ -18,7 +19,7 @@ export const query = graphql`
       html
       frontmatter {
         title
-        date(formatString: "DD MMMM, YYYY")
+        date(formatString: "YYYY MMMM DD")
       }
     }
   }

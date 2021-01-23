@@ -1,6 +1,7 @@
 ---
 title: "Preschool Presidential Pictures"
 date: 2021-01-06
+category: "tidbits"
 ---
 
 When I was in preschool, I remember there was a whole banner of every president up til 2001. I remember just looking at these white men, wondering why it went from a portrait to real photos. I remember how wrinkly George H. W. Bush looked relative to Bill Clinton or JFK. This banner spanned the entire length of the classroom wall; to a 4 year old, it looked like there were hundreds of presidents. I was disappointed that there were only 43 presidents then. 
