@@ -40,9 +40,14 @@ footer {
     font-size: 14px;
 }
 
+.navbarLink:hover {
+    opacity: 1;
+}
+
 .navbarLink {
     list-style-type: none;
-    padding: 0.7rem
+    padding: 0.7rem;
+    opacity: 0.75;
 }
 
 .navbarLink a {
