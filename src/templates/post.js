@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 export default function Post({ data }) {
   const post = data.markdownRemark
   return (
-    <Layout>
+    <Layout pageTitle='Post'>
       <h2 className='postTitle'>{post.frontmatter.title}</h2>
       <h5 className='date'>{post.frontmatter.date}</h5>
       <div className='postText' dangerouslySetInnerHTML={{ __html: post.html }} />

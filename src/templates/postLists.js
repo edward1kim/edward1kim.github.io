@@ -7,7 +7,7 @@ export default function PostLists({ data }) {
   let categoryHead = data.allMarkdownRemark.edges.filter(({ node }) => node.frontmatter.isHead)[0].node  
 
   return (
-    <Layout>
+    <Layout pageTitle={categoryHead.frontmatter.title}>
       <h1>{categoryHead.frontmatter.title}</h1>
       {posts.map(({ node }) => (
         <div key={node.id}>

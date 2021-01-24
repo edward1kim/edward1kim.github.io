@@ -6,7 +6,7 @@ export default function Home({ data }) {
   let posts = data.allMarkdownRemark.edges.filter(({ node }) => !node.frontmatter.isHead)
 
   return (
-    <Layout>
+    <Layout pageTitle='Home'>
       <h1>Home</h1>
       {posts.map(({ node }) => (
         <div key={node.id}>

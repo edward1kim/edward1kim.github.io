@@ -3,7 +3,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import { Helmet } from "react-helmet"
 import Header from "./header"
 
-const Layout = ({ children }) => {
+const Layout = ({ children, pageTitle }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
       site {
@@ -24,7 +24,7 @@ const Layout = ({ children }) => {
       <div className='layoutMain'>
         <Helmet>
           <meta charSet="utf-8" />
-          <title>Edward Kim</title>
+          <title>{data.site.siteMetadata.title} | {pageTitle}</title>
           <link rel="canonical" href="https://www.eggwardkim.com" />
         </Helmet>
           <main>{children}</main>
