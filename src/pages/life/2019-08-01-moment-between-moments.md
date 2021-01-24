@@ -6,19 +6,19 @@ category: "life"
 
 Let me give you a timeline of this summer so far:
 
-&nbsp;&nbsp;&nbsp;&nbsp;- 26 April : Last final of undergrad  
-&nbsp;&nbsp;&nbsp;&nbsp;- 2 May : Fly to Austin, TX (and accidentally skipping graduation)  
-&nbsp;&nbsp;&nbsp;&nbsp;- 14 May : Fly to Denver, CO  
-&nbsp;&nbsp;&nbsp;&nbsp;- 11 June : Train to Chicago, IL  
-&nbsp;&nbsp;&nbsp;&nbsp;- 12 June : Fly to Seoul, KR  
-&nbsp;&nbsp;&nbsp;&nbsp;- 16 June : Train to Busan, KR  
-&nbsp;&nbsp;&nbsp;&nbsp;- 17 June : Fly to Fukuoka, JP  
-&nbsp;&nbsp;&nbsp;&nbsp;- 19 June : Train to Osaka, JP  
-&nbsp;&nbsp;&nbsp;&nbsp;- 20 June : Train to Nara, JP  
-&nbsp;&nbsp;&nbsp;&nbsp;- 21 June : Train to Kyoto, JP  
-&nbsp;&nbsp;&nbsp;&nbsp;- 22 June : Train to Tokyo, JP  
-&nbsp;&nbsp;&nbsp;&nbsp;- 26 June : Fly to Seoul, KR (which we missed our initial flight and had to buy another)  
-&nbsp;&nbsp;&nbsp;&nbsp;- 27 June : Fly to Chicago, IL and drive back to Rochester Hills, MI
+- 26 April : Last final of undergrad  
+- 2 May : Fly to Austin, TX (and accidentally skipping graduation)  
+- 14 May : Fly to Denver, CO  
+- 11 June : Train to Chicago, IL  
+- 12 June : Fly to Seoul, KR  
+- 16 June : Train to Busan, KR  
+- 17 June : Fly to Fukuoka, JP  
+- 19 June : Train to Osaka, JP  
+- 20 June : Train to Nara, JP  
+- 21 June : Train to Kyoto, JP  
+- 22 June : Train to Tokyo, JP  
+- 26 June : Fly to Seoul, KR (which we missed our initial flight and had to buy another)  
+- 27 June : Fly to Chicago, IL and drive back to Rochester Hills, MI
 
 There was always something to look forward to this summer, peaking with my [Korea/Japan trip](https://edward1kim.github.io/life_posts/korea-japan-trip-2019). Once I was back, an airport was the last place I wanted to be at. I had a little over a month left, sandwiched by my big trip of the summer and the beginning of work, before I moved out to Richmond, VA. This period is what I refer as the moment between moments. 
 

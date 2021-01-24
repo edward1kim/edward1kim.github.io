@@ -1,9 +1,3 @@
-/**
- * Configure your Gatsby site with this file.
- *
- * See: https://www.gatsbyjs.com/docs/gatsby-config/
- */
-
 module.exports = {
   siteMetadata: {
     title: `Edward Kim`,
@@ -43,9 +37,7 @@ module.exports = {
         plugins: [
           {
             resolve: `gatsby-remark-images`,
-            options: {
-              maxWidth: 400,
-            },
+            options: {},
           },
           {
             resolve: `gatsby-remark-prismjs`,
@@ -79,9 +71,6 @@ module.exports = {
           },
           {
             resolve: "gatsby-remark-external-links",
-            // options: {
-            //   rel: "nofollow"
-            // }
           }
         ],
       },
@@ -97,7 +86,7 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: `${__dirname}/src/images`,
+        path: `${__dirname}/static/images`,
       },
     },
   ]

@@ -16,10 +16,7 @@ I'll admit here that with my salary I am fortunate to have more money than I kno
 
 Let's start with my total spend per month:
 
-
-![total spend per month](/../../images/spending-charts/monthly-spend.jpg){:width="800px"}  
-<sup>***Total spend per month with moving average (does not include investments)***</sup>
-
+![total spend per month](/images/spending-charts/monthly-spend.jpg)
 
 I've left out August 2019 in my moving average calculation because I moved out to Richmond in the middle of the month and didn't end up spending a lot of money then. It's what Malcolm Gladwell would call an outlier. I've colored the charts relative to my moving average, where close to the average meant yellow, above average spending was red, and below average spending was green. I'll summarize the story behind this chart in bullets.
 
@@ -35,10 +32,7 @@ I've left out August 2019 in my moving average calculation because I moved out t
 
 Next I had to look at my food spending.
 
-
-![eating out vs groceries](../../images/spending-charts/eating-out-vs-groceries.jpg){:width="800px"}  
-<sup>***Spend between eating out and grocery shopping***</sup>
-
+![eating out vs groceries](/images/spending-charts/eating-out-vs-groceries.jpg)
 
 The chart was very eye opening really. I don't spend a lot of money at once for food, but I do go to the grocery store 3-4 times a week and eat out once or twice a week at my worst times. It really adds up. My bullets below:
 
@@ -54,15 +48,9 @@ The chart was very eye opening really. I don't spend a lot of money at once for 
 
 Lastly, I charted my spending buckets. I did one with everything and one with everything except rent contributions.
 
+![total spend percentages](/images/spending-charts/spend-split.jpg)  
 
-![total spend percentages](../../images/spending-charts/spend-split.jpg)  
-<sup>***Spend split in percentages (minus investments)***</sup>
-
-
-
-![total spend minus rent percentages](../../images/spending-charts/spend-split-minus-rent.jpg)  
-<sup>***Spend split in percentages (minus rent and investments)***</sup>
-
+![total spend minus rent percentages](/images/spending-charts/spend-split-minus-rent.jpg)  
 
 Pretty short analysis here.
 

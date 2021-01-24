@@ -6,9 +6,9 @@ export default function Post({ data }) {
   const post = data.markdownRemark
   return (
     <Layout>
-      <h1>{post.frontmatter.title}</h1>
-      <h3>{post.frontmatter.date}</h3>
-      <div dangerouslySetInnerHTML={{ __html: post.html }} />
+      <h2 className='postTitle'>{post.frontmatter.title}</h2>
+      <h5 className='date'>{post.frontmatter.date}</h5>
+      <div className='postText' dangerouslySetInnerHTML={{ __html: post.html }} />
     </Layout>
   )
 }
@@ -19,7 +19,7 @@ export const query = graphql`
       html
       frontmatter {
         title
-        date(formatString: "YYYY MMMM DD")
+        date(formatString: "MMMM DD, YYYY")
       }
     }
   }

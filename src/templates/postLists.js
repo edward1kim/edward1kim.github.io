@@ -11,11 +11,11 @@ export default function PostLists({ data }) {
       <h1>{categoryHead.frontmatter.title}</h1>
       {posts.map(({ node }) => (
         <div key={node.id}>
-          <h3>
+          <h3 className='postListsTitle'>
             <Link to={node.fields.slug}>{node.frontmatter.title}{" "}</Link>
           </h3>
-          <h4>{node.frontmatter.date}</h4>
-          <p>{node.excerpt}</p>
+          <h5 className='date'>{node.frontmatter.date}</h5>
+          <p className='postText'>{node.excerpt}</p>
         </div>
       ))}
     </Layout>
@@ -40,7 +40,7 @@ export const query = graphql`
           id
           frontmatter {
             title
-            date(formatString: "YYYY MMMM DD")
+            date(formatString: "MMMM DD, YYYY")
             category
             isHead
           }

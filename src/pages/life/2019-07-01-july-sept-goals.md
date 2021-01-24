@@ -9,9 +9,9 @@ As stated in [Life Update #1](https://edward1kim.github.io/life_posts/3-month-go
 ---
 
 **April to June Goals:**  
-&nbsp;&nbsp;&nbsp;&nbsp;1\. Run 100 miles total  
-&nbsp;&nbsp;&nbsp;&nbsp;2\. Learn Rust (read through the entire book)  
-&nbsp;&nbsp;&nbsp;&nbsp;3\. Learn Korean
+1\. Run 100 miles total  
+2\. Learn Rust (read through the entire book)  
+3\. Learn Korean
 
 I'll go through each goal below.
 
@@ -40,9 +40,9 @@ I realize that knowing another language, especially my mother tongue, is probabl
 Unintentionally, my past goals were split into a fitness goal, knowledge goal, and skill goal, which I'm going to keep the same format of. Also, looking back at my progress, instead of engaging with three huge goals, I need to have a combination of large, medium, and small goals. 
 
 With all this in mind, my goals for July to September are:
-&nbsp;&nbsp;&nbsp;&nbsp;1\. [L] Run 100 miles total (stretch goal of 120 miles)  
-&nbsp;&nbsp;&nbsp;&nbsp;2\. [M] Get through rest of Rust book with plan highlighted above  
-&nbsp;&nbsp;&nbsp;&nbsp;3\. [S] Write post or series of posts on Korean food
+1\. [L] Run 100 miles total (stretch goal of 120 miles)  
+2\. [M] Get through rest of Rust book with plan highlighted above  
+3\. [S] Write post or series of posts on Korean food
 
 The L/M/S represents a large, medium, small goal, respectively.
 
