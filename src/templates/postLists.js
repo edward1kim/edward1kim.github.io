@@ -8,7 +8,7 @@ export default function PostLists({ data }) {
 
   return (
     <Layout pageTitle={categoryHead.frontmatter.title}>
-      <h1>{categoryHead.frontmatter.title}</h1>
+      <h1 className='headTitle'>{categoryHead.frontmatter.title}</h1>
       {posts.map(({ node }) => (
         <div key={node.id}>
           <h3 className='postListsTitle'>

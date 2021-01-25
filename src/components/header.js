@@ -3,21 +3,17 @@ import React from "react"
 
 const Header = ({ siteTitle, menuLinks }) => (
   <header>
-    <div>
-      <div>
-        <nav>
-          <ul className="navbar">
-            {menuLinks.map(link => (
-              <li className='navbarLink' key={link.name}>
-                <Link to={link.link}>
-                  {link.name}
-                </Link>
-              </li>
-            ))}
-          </ul>
-        </nav>
-      </div>
-    </div>
+    <nav>
+      <ul className="navbar">
+        {menuLinks.map(link => (
+          <Link to={link.link}>
+            <li className='navbarLink' key={link.name}>
+              {link.name}
+            </li>
+          </Link>
+        ))}
+      </ul>
+    </nav>
   </header>
 )
 

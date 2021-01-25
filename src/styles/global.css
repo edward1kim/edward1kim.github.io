@@ -1,5 +1,5 @@
 html {
-    font-size: calc(14px + 4 * ((100vw - 320px) / 960));
+    font-size: calc(12px + 4 * ((100vw - 320px) / 960));
 }
 
 body {
@@ -15,12 +15,17 @@ img {
     padding: 10px 0px;
 }
 
+a {
+    color: #19456b;
+}
+
 header {
-    background: black;
+    background: rgb(216, 139, 139);
     min-height: 40px;
-    max-width: 450px;
+    max-width: 400px;
     margin: 0 auto;
     border-radius: 0px 0px 15px 15px;
+    text-decoration: none
 }
 
 footer {
@@ -40,6 +45,11 @@ footer {
     font-size: 14px;
 }
 
+.navbar a {
+    color: white;
+    text-decoration: none;
+}
+
 .navbarLink:hover {
     opacity: 1;
 }
@@ -50,13 +60,9 @@ footer {
     opacity: 0.75;
 }
 
-.navbarLink a {
-    color: white;
-    text-decoration: none;
-}
-
-.caption {
-    text-align: right;
+.headTitle {
+    color: black;
+    padding: 15px 0px;
 }
 
 .layoutMain {
@@ -66,23 +72,28 @@ footer {
 }
 
 .date {
-    color: rgba(54,54,58,0.8);
+    color: rgb(216, 161, 161);
     margin-top: 5px;
 }
 
 .postListsTitle {
-    margin-bottom: 5px;
+    margin: 5px 0px;
+    padding-top: 15px;
+    border-top: 1px solid #ccc;
 }
 
 .postListsTitle a {
-    color: black;
+    color: rgb(38,38,38);
     text-decoration: none;
 }
 
 .postText {
     line-height: 150%;
+    color: rgb(46, 45, 45);
 }
 
 .postTitle {
+    padding-top: 15px;
     margin-bottom: 5px;
+    color: rgb(56, 56, 56);
 }

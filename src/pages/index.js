@@ -7,7 +7,7 @@ export default function Home({ data }) {
 
   return (
     <Layout pageTitle='Home'>
-      <h1>Home</h1>
+      <h1 className='headTitle'>Home</h1>
       {posts.map(({ node }) => (
         <div key={node.id}>
           <h3 className='postListsTitle'>

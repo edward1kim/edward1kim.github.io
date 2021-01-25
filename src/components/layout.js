@@ -30,7 +30,7 @@ const Layout = ({ children, pageTitle }) => {
           <main>{children}</main>
       </div>
       <footer>
-        <h5 classNae='footerDetails'>
+        <h5 className='footerDetails'>
           © {new Date().getFullYear()} Edward Kim, Built with
           {` `}
           <a href="https://www.gatsbyjs.com">Gatsby</a>
