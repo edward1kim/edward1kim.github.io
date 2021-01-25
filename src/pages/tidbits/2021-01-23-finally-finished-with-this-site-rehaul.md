@@ -1,6 +1,6 @@
 ---
 title: "Finally finished with this site rehaul"
-date: 2021-01-24
+date: 2021-01-23
 category: "tidbits"
 ---
 
