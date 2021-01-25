@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/404.js"],"names":["Error"],"mappings":"2FAAA,wEAGe,SAASA,IACtB,OAAQ","file":"component---src-pages-404-js-ff835df495dcd24cb4e4.js","sourcesContent":["import React from \"react\"\n\n\nexport default function Error() {\n  return (<h1>404 : This page does not exist</h1>)\n}\n "],"sourceRoot":""}
