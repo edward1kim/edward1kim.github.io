@@ -4,6 +4,7 @@ html {
 
 body {
     margin: 0 auto;
+    padding: 0px 30px;
     font-family: "Proxima Nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -12,7 +13,6 @@ img {
     max-width: 700px;
     margin-left: auto;
     margin-right: auto;
-    padding: 10px 0px;
 }
 
 a {
@@ -21,7 +21,7 @@ a {
 
 header {
     background: rgb(216, 139, 139);
-    min-height: 40px;
+    min-height: 43px;
     max-width: 400px;
     margin: 0 auto;
     border-radius: 0px 0px 15px 15px;
@@ -34,6 +34,16 @@ footer {
     min-height: 100px;
     border-top: 1px solid #ccc;
     text-align: center;
+}
+
+.logoWrapper {
+    margin: auto 5px;
+    flex: 0 1 30px;
+    opacity: 0.9;
+}
+
+.logoWrapper:hover {
+    opacity: 1;
 }
 
 .navbar { 
@@ -96,4 +106,15 @@ footer {
     padding-top: 15px;
     margin-bottom: 5px;
     color: rgb(56, 56, 56);
+}
+
+
+@media only screen and (max-width: 800px) {
+    html {
+        font-size: calc(14px + 4 * ((100vw - 320px) / 960));
+    }
+
+    .navbar {
+        font-size: 10px;
+    }
 }

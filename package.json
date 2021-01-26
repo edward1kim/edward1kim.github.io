@@ -11,10 +11,12 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "create": "chmod +x create-page.sh && ./create-page.sh"
   },
   "dependencies": {
     "gatsby": "^2.26.1",
+    "gatsby-image": "^2.10.0",
     "gatsby-plugin-react-helmet": "^3.9.0",
     "gatsby-plugin-sharp": "^2.13.1",
     "gatsby-remark-external-links": "^0.0.4",
@@ -22,6 +24,7 @@
     "gatsby-remark-prismjs": "^3.12.0",
     "gatsby-source-filesystem": "^2.10.0",
     "gatsby-transformer-remark": "^2.15.0",
+    "gatsby-transformer-sharp": "^2.11.0",
     "gh-pages": "^3.1.0",
     "prismjs": "^1.23.0",
     "react": "^16.12.0",

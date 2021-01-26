@@ -3,10 +3,6 @@ module.exports = {
     title: `Edward Kim`,
     menuLinks:[
       {
-         name:'HOME',
-         link:'/'
-      },
-      {
          name:'ABOUT',
          link:'/about/'
       },
@@ -32,6 +28,7 @@ module.exports = {
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {
