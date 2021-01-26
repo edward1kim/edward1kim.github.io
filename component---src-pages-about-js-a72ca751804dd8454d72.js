@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{"3XHS":function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return r}));var a=t("q1tI"),l=t.n(a),u=t("Bl7J");function r(){return l.a.createElement(u.a,null,l.a.createElement("div",null,l.a.createElement("h1",null,"About Me"),l.a.createElement("p",null,"My name is Edward Kim")))}}}]);
-//# sourceMappingURL=component---src-pages-about-js-a72ca751804dd8454d72.js.map
