@@ -11,3 +11,5 @@ At first, I wanted to keep it low key until it was officially offical at work, b
 Can't say that's the same situation for me. This promotion came as a complete surprise, and talking about it more with another senior engineer, I honestly have no idea why I got promoted. But we take those, no matter the circumstances.
 
 So I'm hyped, I'm ready, a little scared of what more responsibility will look like because I have a pretty nice work-life balance, but what can ya do, I can't *not* take the promotion, right?
+
+Also notice that without the first sentence of this post, I've basically followed the formula for LinkedIn virality.
