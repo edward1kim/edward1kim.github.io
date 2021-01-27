@@ -1,6 +1,6 @@
-html {
+/* html {
     font-size: calc(12px + 4 * ((100vw - 320px) / 960));
-}
+} */
 
 body {
     margin: 0 auto;
@@ -90,10 +90,10 @@ footer {
     margin: 5px 0px;
     padding-top: 15px;
     border-top: 1px solid #ccc;
+    color: rgb(38,38,38);
 }
 
-.postListsTitle a {
-    color: rgb(38,38,38);
+.postBox{
     text-decoration: none;
 }
 
@@ -109,20 +109,20 @@ footer {
 }
 
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 700px) {
     html {
-        font-size: calc(14px + 4 * ((100vw - 320px) / 960));
+        font-size: calc(13px + 4 * ((100vw - 320px) / 960));
     }
 
-    .navbar {
-        font-size: 10px;
+    header {
+        max-height: 43px;
+        max-width: 350px;
     }
-
     .navbarLink {
         font-size: 0.7rem;
         z-index: 6;
     }
     .logoWrapper {
-        flex: 0 1 25px;
+        flex: 0 1 30px;
     }
 }
