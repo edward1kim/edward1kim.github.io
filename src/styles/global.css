@@ -115,11 +115,11 @@ footer {
     }
 
     header {
-        max-height: 43px;
-        max-width: 350px;
+        max-height: 57px;
+        max-width: 400px;
     }
     .navbarLink {
-        font-size: 0.7rem;
+        font-size: 0.9rem;
         z-index: 6;
     }
     .logoWrapper {
