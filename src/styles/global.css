@@ -20,9 +20,9 @@ a {
 }
 
 header {
-    background: rgb(216, 139, 139);
-    min-height: 43px;
-    max-width: 400px;
+    background: rgb(214, 148, 148);
+    max-height: 43px;
+    max-width: 450px;
     margin: 0 auto;
     border-radius: 0px 0px 15px 15px;
     text-decoration: none
@@ -39,7 +39,8 @@ footer {
 .logoWrapper {
     margin: auto 5px;
     flex: 0 1 40px;
-    opacity: 0.9;
+    opacity: 0.7;
+    transition: all 0.4s ease-in;
 }
 
 .logoWrapper:hover {
@@ -59,14 +60,14 @@ footer {
     text-decoration: none;
 }
 
-.navbarLink:hover {
-    opacity: 1;
+.navbarLink {
+    padding: 0.7rem;
+    opacity: 0.7;
+    transition: all 200ms ease-in;
 }
 
-.navbarLink {
-    list-style-type: none;
-    padding: 0.7rem;
-    opacity: 0.75;
+.navbarLink:hover {
+    opacity: 1;
 }
 
 .headTitle {
@@ -81,7 +82,7 @@ footer {
 }
 
 .date {
-    color: rgb(216, 161, 161);
+    color: rgb(214, 148, 148);
     margin-top: 5px;
 }
 
@@ -115,5 +116,13 @@ footer {
 
     .navbar {
         font-size: 10px;
+    }
+
+    .navbarLink {
+        font-size: 0.7rem;
+        z-index: 6;
+    }
+    .logoWrapper {
+        flex: 0 1 25px;
     }
 }
