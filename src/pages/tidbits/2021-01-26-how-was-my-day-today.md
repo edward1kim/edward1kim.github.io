@@ -22,4 +22,4 @@ Got Chipotle for dinner with my parents, which was pretty garbage. I would not e
 
 I messed around with my website styling a bit more. I'm having a lot of trouble making it responsive, so for the peeps viewing on mobile, I'm sorry. Any bugs or weird looking components or suggestions for this site, please reach out. A friend already messaged me about the navbar not adjusting when zooming in and I got a fix for that pretty quickly. Also don't look at the source code nor the commit messages for this site... I'm extremely lazy so I'm not going to write good commit messages AND I just learned this React framework and React seems to have changed syntactically a bit since I learned it. But anyway, webdev is hard blah blah blah. 
 
-Nothing coming up in the future. I was supposed to start watching Attach on Titan today with the girlfriend, but the mood for anime was not the mood tonight. 
+Nothing coming up in the future. I was supposed to start watching Attack on Titan today with the girlfriend, but the mood for anime was not the mood tonight. 
