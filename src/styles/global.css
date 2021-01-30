@@ -10,7 +10,7 @@ body {
 
 img {
     display: block;
-    max-width: 700px;
+    max-width: 75%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -118,11 +118,17 @@ footer {
         max-height: 57px;
         max-width: 400px;
     }
+
     .navbarLink {
         font-size: 0.9rem;
         z-index: 6;
     }
+
     .logoWrapper {
         flex: 0 1 30px;
     }
+
+    /* img {
+        max-width: 500px;
+    } */
 }
