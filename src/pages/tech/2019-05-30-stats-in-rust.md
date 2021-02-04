@@ -45,7 +45,7 @@ This is a quick example of just how careful and annoying it is to code in Rust. 
 
 Sidenote: I was only in an EECS course my first semester freshman year for ENGR 101 and my last semester of college in EECS 280 (and very briefly EECS 203). 
 
-It's a project that I can crank out in a day, but one core principle of Rust really took my C++ mind on a roller coaster: Ownership. I can't explain it that well, so I will refer to whomever to [the section][rust-ownership]{} in The Book. 
+It's a project that I can crank out in a day, but one core principle of Rust really took my C++ mind on a roller coaster: Ownership. I can't explain it that well, so I will refer to whomever to [the section][rust-ownership] in The Book. 
 
 Quoting from that page, "Ownership is Rust’s most unique feature, and it enables Rust to make memory safety guarantees without needing a garbage collector." It's an extra thing to keep in mind while coding, and that made translating my stats code project a bit challenging. Here are the three rules of ownership in Rust:
 
@@ -55,7 +55,7 @@ Quoting from that page, "Ownership is Rust’s most unique feature, and it enabl
 
 This came up a lot when I was calling functions that utilized variables in the heap. Variables in the stack (like integers) aren't as huge of an issue because they're of known size, but ownership really comes into play if you have a object on the heap and you have several different functions trying to do tasks with that object. Ownership is a law that Rust put in so that you you don't mess around with objects if you don't intend to. I really wish I could go on this topic further, but I just don't have the knowledge at the moment to really do it service. Maybe in another blog post just dedicated to that. 
 
-I'm going a bit long here, but overall, this translation from C++ to Rust has been a very good learning experience. I doubt I'll be using Rust at Capital One, but I'm mainly doing this to see if I can learn something by myself and challenge myself technically. You can see my short piece of work on my github and the repo is found [here][stats-proj]{}.
+I'm going a bit long here, but overall, this translation from C++ to Rust has been a very good learning experience. I doubt I'll be using Rust at Capital One, but I'm mainly doing this to see if I can learn something by myself and challenge myself technically. You can see my short piece of work on my github and the repo is found [here][stats-proj].
 
 For now, thanks for reading through my first post! More to come in the Food and Life sections.
 

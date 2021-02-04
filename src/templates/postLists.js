@@ -10,8 +10,8 @@ export default function PostLists({ data }) {
     <Layout pageTitle={categoryHead.frontmatter.title}>
       <h1 className='headTitle'>{categoryHead.frontmatter.title}</h1>
       {posts.map(({ node }) => (
-        <Link to={node.fields.slug} className='postBox'>
-          <div key={node.id}>
+        <Link to={node.fields.slug} className='postLink'>
+          <div className='postBox' key={node.id}>
             <h3 className='postListsTitle'>
               {node.frontmatter.title}
             </h3>
