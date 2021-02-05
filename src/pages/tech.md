@@ -1,5 +1,5 @@
 ---
 title: "Tech"
-category: "tech"
+category: ["tech"]
 isHead: true
 ---

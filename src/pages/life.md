@@ -1,5 +1,5 @@
 ---
 title: "Life"
-category: "life"
+category: ["life"]
 isHead: true
 ---

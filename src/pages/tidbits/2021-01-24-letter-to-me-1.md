@@ -1,7 +1,7 @@
 ---
 title: Letter to me 1
 date: 2021-01-24
-category: tidbits
+category: ["tidbits"]
 ---
 
 Dear Me, 

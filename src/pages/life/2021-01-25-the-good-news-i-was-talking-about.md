@@ -1,7 +1,7 @@
 ---
 title: The Good News I was Talking About
 date: 2021-01-25
-category: life
+category: ["life"]
 ---
 
 I got promoted!

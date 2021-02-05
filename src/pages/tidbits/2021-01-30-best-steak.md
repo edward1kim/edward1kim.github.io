@@ -1,7 +1,7 @@
 ---
 title: Best steak
 date: 2021-01-30
-category: tidbits
+category: ["tidbits"]
 ---
 
 The best way to cook a steak is reverse sear. However, eat steak maybe once every few months because that way it doesn't lose its novelty. Honestly, I'm getting a bit tired of meat - I can't remember the last time I craved meat. It's just part of my diet so I eat it.

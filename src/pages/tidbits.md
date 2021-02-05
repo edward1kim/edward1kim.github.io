@@ -1,5 +1,5 @@
 ---
 title: "Tidbits"
-category: "tidbits"
+category: ["tidbits"]
 isHead: true
 ---

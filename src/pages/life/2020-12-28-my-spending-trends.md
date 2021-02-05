@@ -1,7 +1,7 @@
 ---
 title: "My Spending Trends"
 date: 2020-12-28
-category: "life"
+category: ["life"]
 ---
 
 Before I started working, I set up a whole Google Sheet to help organize all my financials. I wasn't very convinced by these financial organizer apps like Mint, which basically does everything my sheet spits out and more, nor comfortable with these companies analyzing my habits neither. Doing all this tracking myself also let me bucket purchases to my preferences. I didn't have to deal with how I bought beer at the grocery store but that was grouped within groceries in an app when really it's a split between alcohol and groceries (which I make a point to separate).

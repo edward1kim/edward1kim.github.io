@@ -1,7 +1,7 @@
 ---
 title: "A pledge to donate"
 date: 2021-01-13
-category: "life"
+category: ["life"]
 ---
 
 I was a chubby kid. When I look back at photos when I was 2 to 5 years old, I'm usually mid-chew or holding something half eaten. Food was my friend! And other people let me know that food was my friend, comments about my size, my rolls, my chins, all that. I don't think I ever registered what that meant - *chubby* is just cute fat, right? But, without me even knowing, those forgotten quips about my weight still left a scar. It grew an insecurity that's latched to my being... that stuff sticks with you forever. 

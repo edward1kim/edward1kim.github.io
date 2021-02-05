@@ -4,7 +4,12 @@ import Layout from "../components/layout"
 
 export default function PostLists({ data }) {
   let posts = data.allMarkdownRemark.edges.filter(({ node }) => !node.frontmatter.isHead)
-  let categoryHead = data.allMarkdownRemark.edges.filter(({ node }) => node.frontmatter.isHead)[0].node  
+  let categoryHead = data.allMarkdownRemark.edges.filter(({ node }) => node.frontmatter.isHead)
+  if (categoryHead.length > 1) {
+    categoryHead = categoryHead.find(({ node }) => node.frontmatter.title === 'Home').node
+  } else {
+    categoryHead = categoryHead[0].node
+  }
 
   return (
     <Layout pageTitle={categoryHead.frontmatter.title}>
@@ -25,7 +30,7 @@ export default function PostLists({ data }) {
 }
 
 export const query = graphql`
-  query($category: String!) {
+  query($category : [String]) {
     allMarkdownRemark(
       sort: { 
         fields: [frontmatter___date], 
@@ -33,7 +38,7 @@ export const query = graphql`
       }
       filter: {
         frontmatter: {
-          category: {eq: $category}
+          category: {in: $category}
         }
       }
     ) {

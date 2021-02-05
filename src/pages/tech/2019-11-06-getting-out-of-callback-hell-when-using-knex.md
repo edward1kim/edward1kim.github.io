@@ -1,7 +1,7 @@
 ---
 title: "Getting Out of Callback Hell When Using Knex"
 date: 2019-11-06
-category: "tech"
+category: ["tech"]
 ---
 
 It's been several months since I updated anything on that site. I got a bit occupied with my job and enjoying life. In that time, I got a pretty solid handle of Javascript, HTML, and CSS through the bootcamp at work. I recently worked on a project that utilized all of this and a SQL query builder library in Node called [knex.js](https://www.npmjs.com/package/knex). 

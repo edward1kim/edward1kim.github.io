@@ -1,7 +1,7 @@
 ---
 title: Learning Something New
 date: 2021-01-31
-category: tidbits
+category: ["tidbits"]
 ---
 
 This past Friday, I got placed into a new team in my rotational program. I'm going to spend the next month transitioning, tying up any loose ends on my team right now and onboard to the next. I just messaged my new manager a bit back and forth, thinking I'd be working on some already made microservices coded in Python and Go, but to my surprise, he suggested I start learning .NET Core and the Entity Framework. What?

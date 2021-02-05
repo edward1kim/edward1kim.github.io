@@ -1,7 +1,7 @@
 ---
 title: "Crazy food ideas"
 date: 2021-01-15
-category: "tidbits"
+category: ["tidbits"]
 ---
 
 Here are three of my craziest, mostly unattempted food ideas:

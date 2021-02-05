@@ -1,5 +1,5 @@
 ---
 title: "Food"
-category: "food"
+category: ["food"]
 isHead: true
 ---

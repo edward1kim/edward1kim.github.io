@@ -1,7 +1,7 @@
 ---
 title: "Richmond and Starting Work"
 date: 2019-08-17
-category: "life"
+category: ["life"]
 ---
 
 This will be a short update.

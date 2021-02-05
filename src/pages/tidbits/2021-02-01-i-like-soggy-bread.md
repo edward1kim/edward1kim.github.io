@@ -1,7 +1,7 @@
 ---
 title: I LIKE SOGGY BREAD
 date: 2021-02-01
-category: tidbits
+category: ["tidbits"]
 ---
 
 I said it. And I wonder if anyone else agrees with me. Let me explain what I really mean though - I *don't* mean bread dipped in water by the way. That's so gross. I'm talking about the last bits of bread from a sandwich or burger, soaked in all the oils, fats, condiments, maybe the last bits of tomato or lettuce, kindly held together by final threads of gluten. 

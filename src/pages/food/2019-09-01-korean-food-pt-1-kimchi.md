@@ -1,7 +1,7 @@
 ---
 title: "Korean Food Part 1: Kimchi"
 date: 2019-09-01
-category: "food"
+category: ["food"]
 ---
 
 This is the first of three parts about Korean food, and of course the first topic that needs to be discussed is kimchi, the national food of Korea, the classic fermented spicy cabbage you'd see at any Korean restaurant. Any Korean can judge how good a restaurant is based on its kimchi alone. In today's post, we will learn about how kimchi is made and what it means to me.
