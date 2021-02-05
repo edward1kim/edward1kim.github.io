@@ -16,9 +16,13 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
-  const result = await graphql(`
+  const postListResult = await graphql(`
     query {
-      allMarkdownRemark {
+      allMarkdownRemark(
+        filter: {
+          frontmatter: { isHead: {eq: true} }
+        }
+      ) {
         edges {
           node {
             fields {
@@ -33,23 +37,42 @@ exports.createPages = async ({ graphql, actions }) => {
     }
   `)
 
-  result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-    if (!menuLinks.includes(node.fields.slug) && node.fields.slug != '/') {
-      createPage({
-        path: node.fields.slug,
-        component: path.resolve(`./src/templates/post.js`),
-        context: {
-          slug: node.fields.slug
-        },
-      })
-    } else {
-      createPage({
-        path: node.fields.slug,
-        component: path.resolve(`./src/templates/postLists.js`),
-        context: {
-          category: node.frontmatter.category
-        },
-      })
+  const postResult = await graphql(`
+    query {
+      allMarkdownRemark(
+        filter: {
+          frontmatter: { isHead: {ne: true} }
+        }
+      ) {
+        edges {
+          node {
+            fields {
+              slug
+            }
+          }
+        }
+      }
     }
+  `)
+
+  postListResult.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    createPage({
+      path: node.fields.slug,
+      component: path.resolve(`./src/templates/postLists.js`),
+      context: {
+        category: node.frontmatter.category
+      },
+    })
   })
+
+  postResult.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    createPage({
+      path: node.fields.slug,
+      component: path.resolve(`./src/templates/post.js`),
+      context: {
+        slug: node.fields.slug
+      },
+    })
+  })
+
 }
