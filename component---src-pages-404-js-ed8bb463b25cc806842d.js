@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{w2l6:function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return c}));var o=n("q1tI"),a=n.n(o),r=n("Wbzz");function c(){return a.a.createElement(r.a,{to:"/",className:"logoWrapper"},a.a.createElement("h1",null,"404 : This page does not exist. Click here to go back to the homepage."))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-ed8bb463b25cc806842d.js.map
