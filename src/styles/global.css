@@ -27,6 +27,7 @@ header {
 footer {
     padding: 1em 0;
     margin: 2em 0;
+    margin-top: 3em;
     min-height: 100px;
     border-top: 1px solid #ccc;
     text-align: center;
@@ -68,7 +69,8 @@ footer {
 
 .headTitle {
     color: black;
-    padding: 15px 0px;
+    padding-top: 15px;
+    margin-bottom: 5px;
 }
 
 .layoutMain {
@@ -112,6 +114,22 @@ footer {
     color: rgb(56, 56, 56);
 }
 
+.nextPrev {
+    color:rgb(214, 148, 148);
+    text-decoration: none;
+    padding: 0.6rem 0rem;
+}
+
+.nextPrevBox {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+.bottomPrevBox {
+    border-top: 1px solid #ccc;
+}
+
 
 @media only screen and (max-width: 700px) {
     html {
@@ -131,8 +149,4 @@ footer {
     .logoWrapper {
         flex: 0 1 30px;
     }
-
-    /* img {
-        max-width: 500px;
-    } */
 }

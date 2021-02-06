@@ -2,19 +2,17 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 
-export default function PostLists({ data }) {
-  let posts = data.allMarkdownRemark.edges.filter(({ node }) => !node.frontmatter.isHead)
-  let categoryHead = data.allMarkdownRemark.edges.filter(({ node }) => node.frontmatter.isHead)
-
-  if (categoryHead.length > 2) {
-    categoryHead = categoryHead.find(({ node }) => node.frontmatter.title === 'Home').node
-  } else {
-    categoryHead = categoryHead.find(({ node }) => node.frontmatter.title !== 'Home').node
-  }
+export default function PostLists({ data, pageContext }) {
+  const title = pageContext.title
+  const posts = data.allMarkdownRemark.edges
 
   return (
-    <Layout pageTitle={categoryHead.frontmatter.title}>
-      <h1 className='headTitle'>{categoryHead.frontmatter.title}</h1>
+    <Layout pageTitle={title}>
+      <h1 className='headTitle'>{title}</h1>
+      <div className='nextPrevBox'>
+        {pageContext.prev ? <Link to={pageContext.prev} className='nextPrev'>Prev</Link> : <p></p>}
+        {pageContext.next ? <Link to={pageContext.next} className='nextPrev'>Next</Link> : <p></p>}
+      </div>
       {posts.map(({ node }) => (
         <Link to={node.fields.slug} className='postLink'>
           <div className='postBox' key={node.id}>
@@ -26,12 +24,16 @@ export default function PostLists({ data }) {
           </div>
         </Link>
       ))}
+      <div className='nextPrevBox bottomPrevBox'>
+        {pageContext.prev ? <Link to={pageContext.prev} className='nextPrev'>Prev</Link> : <p></p>}
+        {pageContext.next ? <Link to={pageContext.next} className='nextPrev'>Next</Link> : <p></p>}
+      </div>
     </Layout>
   )
 }
 
 export const query = graphql`
-  query($category: [String]) {
+  query($category: [String], $limit: Int!, $skip: Int!) {
     allMarkdownRemark(
       sort: { 
         fields: [frontmatter___date], 
@@ -40,12 +42,14 @@ export const query = graphql`
       filter: {
         frontmatter: {
           category: {in: $category}
+          isHead: {ne: true}
         }
       }
+      limit: $limit
+      skip: $skip
     ) {
       edges {
         node {
-          id
           frontmatter {
             title
             date(formatString: "MMMM DD, YYYY")

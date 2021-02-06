@@ -13,3 +13,7 @@ My issue is just the way that I have my code set up. Gatsby works starting with 
 All `gatsby-node` does is assign a template to use for each page on the site. It does not pass in the posts that you'd want to see on the page, which is itself a unique query. I'm having a hard time differentiating between a file that's a post list and one that is just a post... I know I'm not explaining this well.
 
 But while writing this out, I just had an epiphany so. Thanks for reading.
+
+--- 
+
+A few hours later, I did it.
