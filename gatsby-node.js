@@ -1,6 +1,5 @@
 const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
-const menuLinks = require(`./gatsby-config`).siteMetadata.menuLinks.map(({ link }) => link)
 
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions
