@@ -2,6 +2,7 @@
 title: "Enjoy What You Have"
 date: 2020-12-24
 category: ["tidbits"]
+isHead: false
 ---
 
 To anyone that has listened to me rave about food, I'm sure my love for [J. Kenji Lopez-Alt](https://www.youtube.com/user/kenjialt) will come up once or twice or many many times. When he was posting his first-person Youtube videos, I would cook alongside him. These videos would determine what I ate for the week. 

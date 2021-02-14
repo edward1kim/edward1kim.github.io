@@ -2,6 +2,7 @@
 title: "What has changed?"
 date: 2020-12-17
 category: ["life"]
+isHead: false
 ---
 
 It has been more than an entire year since I last posted! So much has happened in between. I thought I was done with this website, but here I am, in some kind of mood to write. I'd like to write more about the CODA program and how my first year of TDP has been. I want to document my entire tech journey. But today I want to talk about my recent introspective findings and how it has allowed me to enjoy my life more. 

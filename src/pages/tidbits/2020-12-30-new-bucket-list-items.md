@@ -2,6 +2,7 @@
 title: "New Bucket List Items"
 date: 2020-12-30
 category: ["tidbits"]
+isHead: false
 ---
 
 Recently, I've added some new life goals/bucket list items. 

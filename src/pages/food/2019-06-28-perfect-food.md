@@ -2,6 +2,7 @@
 title: "Perfect Food"
 date: 2019-06-28
 category: ["food"]
+isHead: false
 ---
 
 Over the holiday season last year, I came across a reddit post in /r/leagueoflegends about a new docuseries on Netflix titled "7 Days Out." Each episode went over the preparation done a week before the start of some of the world's biggest events. There was one episode on the North American League Championship Series (NALCS or just LCS) 2017 Spring finals. I highly recommend that episode, and without spoiling much, it gives a crazy behind-the-scenes of one of the most tragic events in League eSports scene. 

@@ -2,6 +2,7 @@
 title: How was my day today
 date: 2021-01-26
 category: ["tidbits"]
+isHead: false
 ---
 
 Did you guys know I used to have a password protected Tumblr diary that I'd write in nearly every day for 4 or so years? I'd give the link and password out to friends so they could keep up. I stopped that maybe my sophomore year of college. It was definitely one of my most dedicated pastimes, possibly only topped by violin (1st grade to 12th grade) and following eSports (6th grade to now)? This would be an example of one of my posts, albeit the format was fluid.

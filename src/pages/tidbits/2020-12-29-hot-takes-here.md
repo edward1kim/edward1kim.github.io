@@ -2,6 +2,7 @@
 title: "Hot takes, please click"
 date: 2020-12-29
 category: ["tidbits"]
+isHead: false
 ---
 
 Hot off the press and grill.

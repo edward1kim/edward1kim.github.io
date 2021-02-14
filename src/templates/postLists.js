@@ -42,7 +42,7 @@ export const query = graphql`
       filter: {
         frontmatter: {
           category: {in: $category}
-          isHead: {ne: true}
+          isHead: {eq: false}
         }
       }
       limit: $limit

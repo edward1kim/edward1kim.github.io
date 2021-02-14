@@ -2,6 +2,7 @@
 title: "Life Update #1: 3 Month Goals"
 date: 2019-05-31
 category: ["life"]
+isHead: false
 ---
 Every three months starting in January, I make a list of goals. It's an initiative I started this year instead of making my ritualistic New Years' Resolutions, of which I never truly follow through on. Since these goals are more short term, it's easier to keep myself accountable. A lot of this is inspired by *Grit: The Power of Passion and Perseverence* by Dr. Angela Duckworth. One early chapter of the book talks about goal making and how you should have a high-level goal that guides your life and smaller, step-wise goals to get there. 
 

@@ -2,6 +2,7 @@
 title: "The cure for boredom"
 date: 2021-02-11
 category: ["tidbits"]
+isHead: false
 ---
 
 I'm in one of those periods of boredom. It always comes and goes, but the feeling is probably one of the worst in the world. I don't think anyone likes feeling stagnant. 

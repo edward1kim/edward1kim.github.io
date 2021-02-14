@@ -2,6 +2,7 @@
 title: "Pagination Problem"
 date: 2021-02-05
 category: ["tidbits"]
+isHead: false
 ---
 
 I have to say... I'm pretty happy with how this website looks! It was a lot of finnicky styling, copying and pasting and crossing my fingers that it'll work. I am especially proud of how the navbar items glow when your mouse hovers over it and same things when hovering over the posts on the page. I love my sideways napa cabbage icon, that it signifies "home". 

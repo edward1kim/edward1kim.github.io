@@ -2,6 +2,7 @@
 title: "Chicken Adobo Soup"
 date: 2019-06-30
 category: ["food"]
+isHead: false
 ---
 This is an easy recipe that my sister made up a few years ago, handed down to me once I got my own pressure cooker. Almost all of the active work is spent prepping and dumping everything into a single pot. The rest is just waiting for it to finish. 
 

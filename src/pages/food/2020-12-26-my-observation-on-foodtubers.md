@@ -2,6 +2,7 @@
 title: "My Observation on Foodtubers"
 date: 2020-12-26
 category: ["food"]
+isHead: false
 ---
 
 My foodtuber-watching journey started with Epic Meal Time. Just absolute carnage of a show, especially in the wild, unruly days of YouTube. I think they might have coined the Turducken. Pretty disgusting to be honest, but that was their whole image. Indulgence. I wasn't into food or cooking then - it was either late middle school or early high school - but I got pretty tired of their videos after a while. It felt repetitive. Probably should have slowed down their eating and got into the mukbang craze.

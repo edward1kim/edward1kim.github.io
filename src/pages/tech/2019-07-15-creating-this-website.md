@@ -2,6 +2,7 @@
 title: "Creating This Website "
 date: 2019-07-15
 category: ["tech"]
+isHead: false
 ---
 
 For the most part, everything is set up for this website! I've already made a few posts for each of my three categories, and nothing looks off so far. Creating this website was easier than I thought, mainly because I took several shortcuts to get to this point. 

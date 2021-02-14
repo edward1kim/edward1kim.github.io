@@ -2,6 +2,7 @@
 title: "Why name a candle ocean mist when the ocean almost killed me"
 date: 2021-01-10
 category: ["tidbits"]
+isHead: false
 ---
 
 One of my favorite places in the world is Hawaii. If I had unlimited riches, I'd spend quarter of my year there, a quarter in Korea, a quarter in Japan, and the final quarter in Michigan (or wherever my family is). Funny enough, despite all the good memories on several of the islands, I hate the ocean. I fear the ocean. 

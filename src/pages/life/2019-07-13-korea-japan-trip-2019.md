@@ -2,6 +2,7 @@
 title: "Korea/Japan Trip 2019"
 date: 2019-07-13
 category: ["life"]
+isHead: false
 ---
 From the middle to end of June 2019, a couple friends and I went on a two week trip to Korea and Japan—emphasis on Japan.
 

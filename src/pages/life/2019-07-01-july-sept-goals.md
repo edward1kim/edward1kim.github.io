@@ -2,6 +2,7 @@
 title: "Goals for July to September"
 date: 2019-07-01
 category: ["life"]
+isHead: false
 ---
 
 As stated in [Life Update #1](https://edward1kim.github.io/life_posts/3-month-goals), I'm doing 3 month goals to organize my life and get things done. It's the first day of July, and it's time to reflect on the past 3 months and set new goals for the next quarter. 
