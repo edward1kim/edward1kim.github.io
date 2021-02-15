@@ -12,8 +12,9 @@ There are countless carbonara recipes on the web, all fair and probably pointing
 **Core Changes**
 
 - Instead of guancile, I use bacon (thick preferably but any size will do) or honestly... deli ham is very very good. Just add some olive oil (like a teaspoon or less) to the deli ham to mimic "bacon grease". You just want some fat to fortify the sauce and to add meat beacuse a bowl of just pasta is pretty gross
-- Green onions is optional but recommended to get some contrast with the richness of the dish
+- Green onions are optional but recommended to get some contrast with the richness of the dish
 - Sriracha adds a spicy and acidic kick, which normal carbonara is seriously lacking
+- Kimchi on the side because I'm Korean and kimchi elevates everything
 
 --- 
 
@@ -37,4 +38,4 @@ There are countless carbonara recipes on the web, all fair and probably pointing
 3. In a metal/glass bowl, add in your Parmigiano-Reggiano and Pecorino-Romano. Add 1 egg and another egg yolk (use unused whites from this egg for a whiskey sour). Add pepper. Mix together til it's a incorporated. It should resemble a cheesy ectoplasm. It'll be loosened later with pasta water. 
 4. Check the meat if it's browned to your liking and let the oil cool for a bit off heat. You're going to add the meat and rendered fat into the bowl, so it needs to cool down so it doesn't curdle the eggs.
 5. Add meat and fat to bowl. Add noodles straight from the pot to the bowl. You should have pasta water that is carried with it. DO NOT THROW AWAY THE PASTA WATER JUST YET! Mix the pasta and sauces together with tongs. The sauce should start to coat the noodles. Add half a tablespoon of pasta water at a time to get the perfect consistency. The latent heat from the noodles should thicken everything up, BUT if it does need some more heat, put your bowl over the pot of water and gently let the steam heat from the buttom. Be careful for any curdling!
-6. Serve! I top mine with green onions and Sriracha, sometimes with a side of kimchi if I have it on hand. But ultimately, this is for a night out and you're hungry. I would sweat.
+6. Serve! I top mine with green onions and Sriracha, sometimes with a side of kimchi if I have it on hand. But ultimately, this is for a night out and you're hungry. I wouldn't sweat it. Just get your food in, chug some water, and go to bed.
