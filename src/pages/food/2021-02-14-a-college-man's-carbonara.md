@@ -11,7 +11,7 @@ There are countless carbonara recipes on the web, all fair and probably pointing
 
 **Core Changes**
 
-- Instead of guancile, I use bacon (thick preferably but any size will do) or honestly... deli ham is very very good. Just add some olive oil (like a teaspoon or less) to the deli ham to mimic "bacon grease". You just want some fat to fortify the sauce and to add meat beacuse a bowl of just pasta is pretty gross
+- Instead of guancile, I use bacon (thick preferably but any size will do) or honestly... deli ham is very very good. Just add some olive oil (like a teaspoon or less) to the deli ham to mimic "bacon grease". You just want some fat to fortify the sauce and to add meat because a bowl of just pasta is pretty gross
 - Green onions are optional but recommended to get some contrast with the richness of the dish
 - Sriracha adds a spicy and acidic kick, which normal carbonara is seriously lacking
 - Kimchi on the side because I'm Korean and kimchi elevates everything

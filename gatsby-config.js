@@ -35,7 +35,7 @@ module.exports = {
         plugins: [
           {
             resolve: `gatsby-remark-images`,
-            options: {},
+            options: {loading: 'lazy'},
           },
           {
             resolve: `gatsby-remark-prismjs`,
