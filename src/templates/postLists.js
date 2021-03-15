@@ -4,7 +4,8 @@ import Layout from "../components/layout"
 
 export default function PostLists({ data, pageContext }) {
   const title = pageContext.title
-  const posts = data.allMarkdownRemark.edges
+  let posts = data.allMarkdownRemark.edges
+  posts = posts.filter(post => post.node.frontmatter.isHead === false)
 
   return (
     <Layout pageTitle={title}>
